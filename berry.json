@@ -1,7 +1,7 @@
 ﻿{
   "renditionTag": "2.0",
-  "renditionFigure": "0",
-  "articleFigure": "0",
+  "renditionFigure": "2",
+  "articleFigure": "2",
   "style": "https://raw.githubusercontent.com/msay2/Simple-AppUpdaterJSON-/master/app.apk",
   "launch": [
     "- Améliorations apportées",
